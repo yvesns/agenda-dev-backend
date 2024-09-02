@@ -1,3 +1,9 @@
+## Description
+
+Code for a proposed challenge.
+
+I know that I shouldn't put an API key directly at the code, this was just for simplicity's sake in the context of a timed minor challenge.
+
 ## Nest
 
 <p align="center">
@@ -24,7 +30,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Nest Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
